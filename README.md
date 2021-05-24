@@ -51,12 +51,10 @@ ___
 <h2 align=center id="demo"> demo </h3> 
 
 <div align=center>
-
-  First Header | Second Header
+ 
+ 
+NORMAL LISTS | SAHRED LISTS
 ------------ | -------------
-![Alt Text](/video_demo/video.mkv) | Content from cell 2
-Content in the first column | Content in the second column
-  
+![Download video here](/video_demo/normal.mkv) | ![Download video here](/video_demo/compartida.mkv)
+ 
 </div>
-
-
