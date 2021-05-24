@@ -51,10 +51,27 @@ ___
 <h2 align=center id="demo"> demo </h3> 
 
 <div align=center>
+
  
  
-NORMAL LISTS | SAHRED LISTS
------------- | -------------
-![Download video here](/video_demo/normal.mkv) | ![Download video here](/video_demo/compartida.mkv)
+ ### NORMAL LIST
+ 
+ ---
+ 
+https://user-images.githubusercontent.com/57421143/119415803-a5850d80-bcf2-11eb-8966-c2e925ee4b6d.mp4
+ 
+ 
+ 
+  ### SHARED LIST
+ 
+ ---
+ 
+https://user-images.githubusercontent.com/57421143/119415831-b3d32980-bcf2-11eb-837e-d3a1a874ad53.mp4
+
  
 </div>
+
+
+
+
+
